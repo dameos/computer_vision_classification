@@ -1,0 +1,1 @@
+{"Chocorramo": 1, "Fruna Amarilla": 0, "Fruna Naranja": 2, "Fruna Roja": 0, "Fruna Verde": 1, "Jet Azul": 0, "Jumbo Flow Blanca": 1, "Jumbo Flow Negra": 0, "Jumbo Mix Naranja": 2, "Jumbo Roja": 0}
